@@ -1,0 +1,3180 @@
+{
+  "S09E01": {
+    "code": "S09E01",
+    "season": 9,
+    "episode": 1,
+    "title": "And Then There Were Fewer",
+    "year": "2010"
+  },
+  "S09E02": {
+    "code": "S09E02",
+    "season": 9,
+    "episode": 2,
+    "title": "Excellence in Broadcasting",
+    "year": "2010"
+  },
+  "S09E03": {
+    "code": "S09E03",
+    "season": 9,
+    "episode": 3,
+    "title": "Welcome Back Carter",
+    "year": "2010"
+  },
+  "S09E04": {
+    "code": "S09E04",
+    "season": 9,
+    "episode": 4,
+    "title": "Halloween on Spooner Street",
+    "year": "2010"
+  },
+  "S09E05": {
+    "code": "S09E05",
+    "season": 9,
+    "episode": 5,
+    "title": "Baby, You Knock Me Out",
+    "year": "2010"
+  },
+  "S09E06": {
+    "code": "S09E06",
+    "season": 9,
+    "episode": 6,
+    "title": "Brian Writes a Bestseller",
+    "year": "2010"
+  },
+  "S09E07": {
+    "code": "S09E07",
+    "season": 9,
+    "episode": 7,
+    "title": "Road to the North Pole",
+    "year": "2010"
+  },
+  "S09E08": {
+    "code": "S09E08",
+    "season": 9,
+    "episode": 8,
+    "title": "New Kidney in Town",
+    "year": "2011"
+  },
+  "S09E09": {
+    "code": "S09E09",
+    "season": 9,
+    "episode": 9,
+    "title": "And I'm Joyce Kinney",
+    "year": "2011"
+  },
+  "S09E10": {
+    "code": "S09E10",
+    "season": 9,
+    "episode": 10,
+    "title": "Friends of Peter G.",
+    "year": "2011"
+  },
+  "S09E11": {
+    "code": "S09E11",
+    "season": 9,
+    "episode": 11,
+    "title": "German Guy",
+    "year": "2011"
+  },
+  "S09E12": {
+    "code": "S09E12",
+    "season": 9,
+    "episode": 12,
+    "title": "The Hand That Rocks the Wheelchair",
+    "year": "2011"
+  },
+  "S09E13": {
+    "code": "S09E13",
+    "season": 9,
+    "episode": 13,
+    "title": "Trading Places",
+    "year": "2011"
+  },
+  "S09E14": {
+    "code": "S09E14",
+    "season": 9,
+    "episode": 14,
+    "title": "Tiegs for Two",
+    "year": "2011"
+  },
+  "S09E15": {
+    "code": "S09E15",
+    "season": 9,
+    "episode": 15,
+    "title": "Brothers & Sisters",
+    "year": "2011"
+  },
+  "S09E16": {
+    "code": "S09E16",
+    "season": 9,
+    "episode": 16,
+    "title": "The Big Bang Theory",
+    "year": "2011"
+  },
+  "S09E17": {
+    "code": "S09E17",
+    "season": 9,
+    "episode": 17,
+    "title": "Foreign Affairs",
+    "year": "2011"
+  },
+  "S09E18": {
+    "code": "S09E18",
+    "season": 9,
+    "episode": 18,
+    "title": "It's a Trap!",
+    "year": "2011"
+  },
+  "S08E01": {
+    "code": "S08E01",
+    "season": 8,
+    "episode": 1,
+    "title": "Road to the Multiverse",
+    "year": "2009"
+  },
+  "S08E02": {
+    "code": "S08E02",
+    "season": 8,
+    "episode": 2,
+    "title": "Family Goy",
+    "year": "2009"
+  },
+  "S08E03": {
+    "code": "S08E03",
+    "season": 8,
+    "episode": 3,
+    "title": "Spies Reminiscent of Us",
+    "year": "2009"
+  },
+  "S08E04": {
+    "code": "S08E04",
+    "season": 8,
+    "episode": 4,
+    "title": "Brian's Got a Brand New Bag",
+    "year": "2009"
+  },
+  "S08E05": {
+    "code": "S08E05",
+    "season": 8,
+    "episode": 5,
+    "title": "Hannah Banana",
+    "year": "2009"
+  },
+  "S08E06": {
+    "code": "S08E06",
+    "season": 8,
+    "episode": 6,
+    "title": "Quagmire's Baby",
+    "year": "2009"
+  },
+  "S08E07": {
+    "code": "S08E07",
+    "season": 8,
+    "episode": 7,
+    "title": "Jerome Is the New Black",
+    "year": "2009"
+  },
+  "S08E08": {
+    "code": "S08E08",
+    "season": 8,
+    "episode": 8,
+    "title": "Dog Gone",
+    "year": "2009"
+  },
+  "S08E09": {
+    "code": "S08E09",
+    "season": 8,
+    "episode": 9,
+    "title": "Business Guy",
+    "year": "2009"
+  },
+  "S08E10": {
+    "code": "S08E10",
+    "season": 8,
+    "episode": 10,
+    "title": "Big Man on Hippocampus",
+    "year": "2010"
+  },
+  "S08E11": {
+    "code": "S08E11",
+    "season": 8,
+    "episode": 11,
+    "title": "Dial Meg for Murder",
+    "year": "2010"
+  },
+  "S08E12": {
+    "code": "S08E12",
+    "season": 8,
+    "episode": 12,
+    "title": "Extra Large Medium",
+    "year": "2010"
+  },
+  "S08E13": {
+    "code": "S08E13",
+    "season": 8,
+    "episode": 13,
+    "title": "Go, Stewie, Go!",
+    "year": "2010"
+  },
+  "S08E14": {
+    "code": "S08E14",
+    "season": 8,
+    "episode": 14,
+    "title": "Peter-assment",
+    "year": "2010"
+  },
+  "S08E15": {
+    "code": "S08E15",
+    "season": 8,
+    "episode": 15,
+    "title": "Brian Griffin's House of Payne",
+    "year": "2010"
+  },
+  "S08E16": {
+    "code": "S08E16",
+    "season": 8,
+    "episode": 16,
+    "title": "April in Quahog",
+    "year": "2010"
+  },
+  "S08E17": {
+    "code": "S08E17",
+    "season": 8,
+    "episode": 17,
+    "title": "Brian & Stewie",
+    "year": "2010"
+  },
+  "S08E18": {
+    "code": "S08E18",
+    "season": 8,
+    "episode": 18,
+    "title": "Quagmire's Dad",
+    "year": "2010"
+  },
+  "S08E19": {
+    "code": "S08E19",
+    "season": 8,
+    "episode": 19,
+    "title": "The Splendid Source",
+    "year": "2010"
+  },
+  "S08E21": {
+    "code": "S08E21",
+    "season": 8,
+    "episode": 21,
+    "title": "Partial Terms of Endearment",
+    "year": "2010"
+  },
+  "S08E20": {
+    "code": "S08E20",
+    "season": 8,
+    "episode": 20,
+    "title": "Something, Something, Something, Dark Side",
+    "year": "2010"
+  },
+  "S07E01": {
+    "code": "S07E01",
+    "season": 7,
+    "episode": 1,
+    "title": "Love Blactually",
+    "year": "2008"
+  },
+  "S07E02": {
+    "code": "S07E02",
+    "season": 7,
+    "episode": 2,
+    "title": "I Dream of Jesus",
+    "year": "2008"
+  },
+  "S07E03": {
+    "code": "S07E03",
+    "season": 7,
+    "episode": 3,
+    "title": "Road to Germany",
+    "year": "2008"
+  },
+  "S07E04": {
+    "code": "S07E04",
+    "season": 7,
+    "episode": 4,
+    "title": "Baby Not On Board",
+    "year": "2008"
+  },
+  "S07E05": {
+    "code": "S07E05",
+    "season": 7,
+    "episode": 5,
+    "title": "The Man with Two Brians",
+    "year": "2008"
+  },
+  "S07E06": {
+    "code": "S07E06",
+    "season": 7,
+    "episode": 6,
+    "title": "Tales of a Third Grade Nothing",
+    "year": "2008"
+  },
+  "S07E07": {
+    "code": "S07E07",
+    "season": 7,
+    "episode": 7,
+    "title": "Ocean's Three and a Half",
+    "year": "2009"
+  },
+  "S07E08": {
+    "code": "S07E08",
+    "season": 7,
+    "episode": 8,
+    "title": "Family Gay",
+    "year": "2009"
+  },
+  "S07E09": {
+    "code": "S07E09",
+    "season": 7,
+    "episode": 9,
+    "title": "The Juice Is Loose",
+    "year": "2009"
+  },
+  "S07E10": {
+    "code": "S07E10",
+    "season": 7,
+    "episode": 10,
+    "title": "FOX-y Lady",
+    "year": "2009"
+  },
+  "S07E11": {
+    "code": "S07E11",
+    "season": 7,
+    "episode": 11,
+    "title": "Not All Dogs Go to Heaven",
+    "year": "2009"
+  },
+  "S07E12": {
+    "code": "S07E12",
+    "season": 7,
+    "episode": 12,
+    "title": "420",
+    "year": "2009"
+  },
+  "S07E13": {
+    "code": "S07E13",
+    "season": 7,
+    "episode": 13,
+    "title": "Stew-Roids",
+    "year": "2009"
+  },
+  "S07E14": {
+    "code": "S07E14",
+    "season": 7,
+    "episode": 14,
+    "title": "We Love You, Conrad",
+    "year": "2009"
+  },
+  "S07E15": {
+    "code": "S07E15",
+    "season": 7,
+    "episode": 15,
+    "title": "Three Kings",
+    "year": "2009"
+  },
+  "S07E16": {
+    "code": "S07E16",
+    "season": 7,
+    "episode": 16,
+    "title": "Peter's Progress",
+    "year": "2009"
+  },
+  "S06E01": {
+    "code": "S06E01",
+    "season": 6,
+    "episode": 1,
+    "title": "Blue Harvest",
+    "year": "2007"
+  },
+  "S06E02": {
+    "code": "S06E02",
+    "season": 6,
+    "episode": 2,
+    "title": "Movin' Out (Brian's Song)",
+    "year": "2007"
+  },
+  "S06E03": {
+    "code": "S06E03",
+    "season": 6,
+    "episode": 3,
+    "title": "Believe It or Not, Joe's Walking on Air",
+    "year": "2007"
+  },
+  "S06E04": {
+    "code": "S06E04",
+    "season": 6,
+    "episode": 4,
+    "title": "Stewie Kills Lois (1)",
+    "year": "2007"
+  },
+  "S06E05": {
+    "code": "S06E05",
+    "season": 6,
+    "episode": 5,
+    "title": "Lois Kills Stewie (2)",
+    "year": "2007"
+  },
+  "S06E06": {
+    "code": "S06E06",
+    "season": 6,
+    "episode": 6,
+    "title": "Padre de Familia",
+    "year": "2007"
+  },
+  "S06E07": {
+    "code": "S06E07",
+    "season": 6,
+    "episode": 7,
+    "title": "Peter's Daughter",
+    "year": "2007"
+  },
+  "S06E08": {
+    "code": "S06E08",
+    "season": 6,
+    "episode": 8,
+    "title": "McStroke",
+    "year": "2008"
+  },
+  "S06E09": {
+    "code": "S06E09",
+    "season": 6,
+    "episode": 9,
+    "title": "Back to the Woods",
+    "year": "2008"
+  },
+  "S06E10": {
+    "code": "S06E10",
+    "season": 6,
+    "episode": 10,
+    "title": "Play It Again, Brian",
+    "year": "2008"
+  },
+  "S06E11": {
+    "code": "S06E11",
+    "season": 6,
+    "episode": 11,
+    "title": "The Former Life of Brian",
+    "year": "2008"
+  },
+  "S06E12": {
+    "code": "S06E12",
+    "season": 6,
+    "episode": 12,
+    "title": "Long John Peter",
+    "year": "2008"
+  },
+  "S05E01": {
+    "code": "S05E01",
+    "season": 5,
+    "episode": 1,
+    "title": "Stewie Loves Lois",
+    "year": "2006"
+  },
+  "S05E02": {
+    "code": "S05E02",
+    "season": 5,
+    "episode": 2,
+    "title": "Mother Tucker",
+    "year": "2006"
+  },
+  "S05E03": {
+    "code": "S05E03",
+    "season": 5,
+    "episode": 3,
+    "title": "Hell Comes to Quahog",
+    "year": "2006"
+  },
+  "S05E04": {
+    "code": "S05E04",
+    "season": 5,
+    "episode": 4,
+    "title": "Saving Private Brian",
+    "year": "2006"
+  },
+  "S05E05": {
+    "code": "S05E05",
+    "season": 5,
+    "episode": 5,
+    "title": "Whistle While Your Wife Works",
+    "year": "2006"
+  },
+  "S05E06": {
+    "code": "S05E06",
+    "season": 5,
+    "episode": 6,
+    "title": "Prick Up Your Ears",
+    "year": "2006"
+  },
+  "S05E07": {
+    "code": "S05E07",
+    "season": 5,
+    "episode": 7,
+    "title": "Chick Cancer",
+    "year": "2006"
+  },
+  "S05E08": {
+    "code": "S05E08",
+    "season": 5,
+    "episode": 8,
+    "title": "Barely Legal",
+    "year": "2006"
+  },
+  "S05E09": {
+    "code": "S05E09",
+    "season": 5,
+    "episode": 9,
+    "title": "Road to Rupert",
+    "year": "2007"
+  },
+  "S05E10": {
+    "code": "S05E10",
+    "season": 5,
+    "episode": 10,
+    "title": "Peter's Two Dads",
+    "year": "2007"
+  },
+  "S05E11": {
+    "code": "S05E11",
+    "season": 5,
+    "episode": 11,
+    "title": "The Tan Aquatic with Steve Zissou",
+    "year": "2007"
+  },
+  "S05E12": {
+    "code": "S05E12",
+    "season": 5,
+    "episode": 12,
+    "title": "Airport '07",
+    "year": "2007"
+  },
+  "S05E13": {
+    "code": "S05E13",
+    "season": 5,
+    "episode": 13,
+    "title": "Bill & Peter's Bogus Journey",
+    "year": "2007"
+  },
+  "S05E14": {
+    "code": "S05E14",
+    "season": 5,
+    "episode": 14,
+    "title": "No Meals on Wheels",
+    "year": "2007"
+  },
+  "S05E15": {
+    "code": "S05E15",
+    "season": 5,
+    "episode": 15,
+    "title": "Boys Do Cry",
+    "year": "2007"
+  },
+  "S05E16": {
+    "code": "S05E16",
+    "season": 5,
+    "episode": 16,
+    "title": "No Chris Left Behind",
+    "year": "2007"
+  },
+  "S05E17": {
+    "code": "S05E17",
+    "season": 5,
+    "episode": 17,
+    "title": "It Takes a Village Idiot, and I Married One",
+    "year": "2007"
+  },
+  "S05E18": {
+    "code": "S05E18",
+    "season": 5,
+    "episode": 18,
+    "title": "Meet the Quagmires",
+    "year": "2007"
+  },
+  "S04E01": {
+    "code": "S04E01",
+    "season": 4,
+    "episode": 1,
+    "title": "North by North Quahog",
+    "year": "2005"
+  },
+  "S04E02": {
+    "code": "S04E02",
+    "season": 4,
+    "episode": 2,
+    "title": "Fast Times at Buddy Cianci Jr. High",
+    "year": "2005"
+  },
+  "S04E03": {
+    "code": "S04E03",
+    "season": 4,
+    "episode": 3,
+    "title": "Blind Ambition",
+    "year": "2005"
+  },
+  "S04E04": {
+    "code": "S04E04",
+    "season": 4,
+    "episode": 4,
+    "title": "Don't Make Me Over",
+    "year": "2005"
+  },
+  "S04E05": {
+    "code": "S04E05",
+    "season": 4,
+    "episode": 5,
+    "title": "The Cleveland–Loretta Quagmire",
+    "year": "2005"
+  },
+  "S04E06": {
+    "code": "S04E06",
+    "season": 4,
+    "episode": 6,
+    "title": "Petarded",
+    "year": "2005"
+  },
+  "S04E07": {
+    "code": "S04E07",
+    "season": 4,
+    "episode": 7,
+    "title": "Brian the Bachelor",
+    "year": "2005"
+  },
+  "S04E08": {
+    "code": "S04E08",
+    "season": 4,
+    "episode": 8,
+    "title": "8 Simple Rules for Buying My Teenage Daughter",
+    "year": "2005"
+  },
+  "S04E09": {
+    "code": "S04E09",
+    "season": 4,
+    "episode": 9,
+    "title": "Breaking Out Is Hard to Do",
+    "year": "2005"
+  },
+  "S04E10": {
+    "code": "S04E10",
+    "season": 4,
+    "episode": 10,
+    "title": "Model Misbehavior",
+    "year": "2005"
+  },
+  "S04E11": {
+    "code": "S04E11",
+    "season": 4,
+    "episode": 11,
+    "title": "Peter's Got Woods",
+    "year": "2005"
+  },
+  "S04E12": {
+    "code": "S04E12",
+    "season": 4,
+    "episode": 12,
+    "title": "Perfect Castaway",
+    "year": "2005"
+  },
+  "S04E13": {
+    "code": "S04E13",
+    "season": 4,
+    "episode": 13,
+    "title": "Jungle Love",
+    "year": "2005"
+  },
+  "S04E14": {
+    "code": "S04E14",
+    "season": 4,
+    "episode": 14,
+    "title": "PTV",
+    "year": "2005"
+  },
+  "S04E15": {
+    "code": "S04E15",
+    "season": 4,
+    "episode": 15,
+    "title": "Brian Goes Back to College",
+    "year": "2005"
+  },
+  "S04E16": {
+    "code": "S04E16",
+    "season": 4,
+    "episode": 16,
+    "title": "The Courtship of Stewie's Father",
+    "year": "2005"
+  },
+  "S04E17": {
+    "code": "S04E17",
+    "season": 4,
+    "episode": 17,
+    "title": "The Fat Guy Strangler",
+    "year": "2005"
+  },
+  "S04E18": {
+    "code": "S04E18",
+    "season": 4,
+    "episode": 18,
+    "title": "The Father, the Son, and the Holy Fonz",
+    "year": "2005"
+  },
+  "S04E19": {
+    "code": "S04E19",
+    "season": 4,
+    "episode": 19,
+    "title": "Brian Sings and Swings",
+    "year": "2006"
+  },
+  "S04E20": {
+    "code": "S04E20",
+    "season": 4,
+    "episode": 20,
+    "title": "Patriot Games",
+    "year": "2006"
+  },
+  "S04E21": {
+    "code": "S04E21",
+    "season": 4,
+    "episode": 21,
+    "title": "I Take Thee Quagmire",
+    "year": "2006"
+  },
+  "S04E22": {
+    "code": "S04E22",
+    "season": 4,
+    "episode": 22,
+    "title": "Sibling Rivalry",
+    "year": "2006"
+  },
+  "S04E23": {
+    "code": "S04E23",
+    "season": 4,
+    "episode": 23,
+    "title": "Deep Throats",
+    "year": "2006"
+  },
+  "S04E24": {
+    "code": "S04E24",
+    "season": 4,
+    "episode": 24,
+    "title": "Peterotica",
+    "year": "2006"
+  },
+  "S04E25": {
+    "code": "S04E25",
+    "season": 4,
+    "episode": 25,
+    "title": "You May Now Kiss the... Uh... Guy Who Receives",
+    "year": "2006"
+  },
+  "S04E26": {
+    "code": "S04E26",
+    "season": 4,
+    "episode": 26,
+    "title": "Petergeist",
+    "year": "2006"
+  },
+  "S04E27": {
+    "code": "S04E27",
+    "season": 4,
+    "episode": 27,
+    "title": "The Griffin Family History",
+    "year": "2006"
+  },
+  "S04E28": {
+    "code": "S04E28",
+    "season": 4,
+    "episode": 28,
+    "title": "Stewie B. Goode / Bango Was His Name Oh! / Stu & Stewie's Excellent Adventure",
+    "year": "2006"
+  },
+  "S03E01": {
+    "code": "S03E01",
+    "season": 3,
+    "episode": 1,
+    "title": "The Thin White Line (1)",
+    "year": "2001"
+  },
+  "S03E02": {
+    "code": "S03E02",
+    "season": 3,
+    "episode": 2,
+    "title": "Brian Does Hollywood (2)",
+    "year": "2001"
+  },
+  "S03E03": {
+    "code": "S03E03",
+    "season": 3,
+    "episode": 3,
+    "title": "Mr. Griffin Goes to Washington",
+    "year": "2001"
+  },
+  "S03E04": {
+    "code": "S03E04",
+    "season": 3,
+    "episode": 4,
+    "title": "One If by Clam, Two If by Sea",
+    "year": "2001"
+  },
+  "S03E05": {
+    "code": "S03E05",
+    "season": 3,
+    "episode": 5,
+    "title": "And the Wiener Is...",
+    "year": "2001"
+  },
+  "S03E06": {
+    "code": "S03E06",
+    "season": 3,
+    "episode": 6,
+    "title": "Death Lives",
+    "year": "2001"
+  },
+  "S03E07": {
+    "code": "S03E07",
+    "season": 3,
+    "episode": 7,
+    "title": "Lethal Weapons",
+    "year": "2001"
+  },
+  "S03E08": {
+    "code": "S03E08",
+    "season": 3,
+    "episode": 8,
+    "title": "The Kiss Seen Around the World",
+    "year": "2001"
+  },
+  "S03E09": {
+    "code": "S03E09",
+    "season": 3,
+    "episode": 9,
+    "title": "Mr. Saturday Knight",
+    "year": "2001"
+  },
+  "S03E10": {
+    "code": "S03E10",
+    "season": 3,
+    "episode": 10,
+    "title": "Fish Out of Water",
+    "year": "2001"
+  },
+  "S03E11": {
+    "code": "S03E11",
+    "season": 3,
+    "episode": 11,
+    "title": "Emission Impossible",
+    "year": "2001"
+  },
+  "S03E12": {
+    "code": "S03E12",
+    "season": 3,
+    "episode": 12,
+    "title": "To Love and Die in Dixie",
+    "year": "2001"
+  },
+  "S03E13": {
+    "code": "S03E13",
+    "season": 3,
+    "episode": 13,
+    "title": "Screwed the Pooch",
+    "year": "2001"
+  },
+  "S03E14": {
+    "code": "S03E14",
+    "season": 3,
+    "episode": 14,
+    "title": "Peter Griffin: Husband, Father... Brother?",
+    "year": "2001"
+  },
+  "S03E15": {
+    "code": "S03E15",
+    "season": 3,
+    "episode": 15,
+    "title": "Ready, Willing, and Disabled",
+    "year": "2001"
+  },
+  "S03E17": {
+    "code": "S03E17",
+    "season": 3,
+    "episode": 17,
+    "title": "Brian Wallows and Peter's Swallows",
+    "year": "2002"
+  },
+  "S03E18": {
+    "code": "S03E18",
+    "season": 3,
+    "episode": 18,
+    "title": "From Method to Madness",
+    "year": "2002"
+  },
+  "S03E19": {
+    "code": "S03E19",
+    "season": 3,
+    "episode": 19,
+    "title": "Stuck Together, Torn Apart",
+    "year": "2002"
+  },
+  "S03E20": {
+    "code": "S03E20",
+    "season": 3,
+    "episode": 20,
+    "title": "Road to Europe",
+    "year": "2002"
+  },
+  "S03E21": {
+    "code": "S03E21",
+    "season": 3,
+    "episode": 21,
+    "title": "Family Guy Viewer Mail #1",
+    "year": "2002"
+  },
+  "S03E22": {
+    "code": "S03E22",
+    "season": 3,
+    "episode": 22,
+    "title": "When You Wish Upon a Weinstein",
+    "year": "2004"
+  },
+  "S03E16": {
+    "code": "S03E16",
+    "season": 3,
+    "episode": 16,
+    "title": "A Very Special Family Guy Freakin' Christmas",
+    "year": "2001"
+  },
+  "S24E01": {
+    "code": "S24E01",
+    "season": 24,
+    "episode": 1,
+    "title": "The Edible Arrangement [450th episode]",
+    "year": "2026"
+  },
+  "S24E02": {
+    "code": "S24E02",
+    "season": 24,
+    "episode": 2,
+    "title": "Pumpkin Spice Girls",
+    "year": "2026"
+  },
+  "S24E03": {
+    "code": "S24E03",
+    "season": 24,
+    "episode": 3,
+    "title": "Man-Fest Destiny",
+    "year": "2026"
+  },
+  "S24E04": {
+    "code": "S24E04",
+    "season": 24,
+    "episode": 4,
+    "title": "Bringing Up Brady",
+    "year": "2026"
+  },
+  "S24E05": {
+    "code": "S24E05",
+    "season": 24,
+    "episode": 5,
+    "title": "Dear Francis",
+    "year": "2026"
+  },
+  "S24E06": {
+    "code": "S24E06",
+    "season": 24,
+    "episode": 6,
+    "title": "Viewer DMs",
+    "year": "2026"
+  },
+  "S24E07": {
+    "code": "S24E07",
+    "season": 24,
+    "episode": 7,
+    "title": "Scent of a Woman",
+    "year": "2026"
+  },
+  "S24E10": {
+    "code": "S24E10",
+    "season": 24,
+    "episode": 10,
+    "title": "A Few More Ways to Die in the West",
+    "year": "2026"
+  },
+  "S24E11": {
+    "code": "S24E11",
+    "season": 24,
+    "episode": 11,
+    "title": "Tall Stewie",
+    "year": "2026"
+  },
+  "S24E12": {
+    "code": "S24E12",
+    "season": 24,
+    "episode": 12,
+    "title": "Lower G.I. Joe",
+    "year": "2026"
+  },
+  "S24E13": {
+    "code": "S24E13",
+    "season": 24,
+    "episode": 13,
+    "title": "Friend's Best Man",
+    "year": "2026"
+  },
+  "S24E14": {
+    "code": "S24E14",
+    "season": 24,
+    "episode": 14,
+    "title": "Let the Goodtimes Walk",
+    "year": "2026"
+  },
+  "S24E08": {
+    "code": "S24E08",
+    "season": 24,
+    "episode": 8,
+    "title": "Play Time",
+    "year": "2026"
+  },
+  "S24E09": {
+    "code": "S24E09",
+    "season": 24,
+    "episode": 9,
+    "title": "Phony Montana",
+    "year": "2026"
+  },
+  "S24E15": {
+    "code": "S24E15",
+    "season": 24,
+    "episode": 15,
+    "title": "High School History",
+    "year": "2026"
+  },
+  "S23E01": {
+    "code": "S23E01",
+    "season": 23,
+    "episode": 1,
+    "title": "Fat Gun",
+    "year": "2025"
+  },
+  "S23E02": {
+    "code": "S23E02",
+    "season": 23,
+    "episode": 2,
+    "title": "Live, Laugh, Love",
+    "year": "2025"
+  },
+  "S23E03": {
+    "code": "S23E03",
+    "season": 23,
+    "episode": 3,
+    "title": "Drunk with Power",
+    "year": "2025"
+  },
+  "S23E04": {
+    "code": "S23E04",
+    "season": 23,
+    "episode": 4,
+    "title": "Lois C.K.",
+    "year": "2025"
+  },
+  "S23E05": {
+    "code": "S23E05",
+    "season": 23,
+    "episode": 5,
+    "title": "The Chicken or the Meg",
+    "year": "2025"
+  },
+  "S23E06": {
+    "code": "S23E06",
+    "season": 23,
+    "episode": 6,
+    "title": "Dog Is My Co-Pilot",
+    "year": "2025"
+  },
+  "S23E07": {
+    "code": "S23E07",
+    "season": 23,
+    "episode": 7,
+    "title": "Pitch Imperfect",
+    "year": "2025"
+  },
+  "S23E08": {
+    "code": "S23E08",
+    "season": 23,
+    "episode": 8,
+    "title": "Hard Times at Adam West High",
+    "year": "2025"
+  },
+  "S23E09": {
+    "code": "S23E09",
+    "season": 23,
+    "episode": 9,
+    "title": "The Elle Word",
+    "year": "2025"
+  },
+  "S23E10": {
+    "code": "S23E10",
+    "season": 23,
+    "episode": 10,
+    "title": "A Real Who's Hulu",
+    "year": "2025"
+  },
+  "S23E11": {
+    "code": "S23E11",
+    "season": 23,
+    "episode": 11,
+    "title": "China Doll",
+    "year": "2025"
+  },
+  "S23E12": {
+    "code": "S23E12",
+    "season": 23,
+    "episode": 12,
+    "title": "One Foot in Front of the Mother",
+    "year": "2025"
+  },
+  "S23E13": {
+    "code": "S23E13",
+    "season": 23,
+    "episode": 13,
+    "title": "The Fat Lotus",
+    "year": "2025"
+  },
+  "S23E14": {
+    "code": "S23E14",
+    "season": 23,
+    "episode": 14,
+    "title": "Cool Hand Lois",
+    "year": "2025"
+  },
+  "S23E15": {
+    "code": "S23E15",
+    "season": 23,
+    "episode": 15,
+    "title": "Martian Meg",
+    "year": "2025"
+  },
+  "S23E16": {
+    "code": "S23E16",
+    "season": 23,
+    "episode": 16,
+    "title": "Row v. Wade",
+    "year": "2025"
+  },
+  "S23E17": {
+    "code": "S23E17",
+    "season": 23,
+    "episode": 17,
+    "title": "Karenheit 451",
+    "year": "2025"
+  },
+  "S23E18": {
+    "code": "S23E18",
+    "season": 23,
+    "episode": 18,
+    "title": "Twain's World",
+    "year": "2025"
+  },
+  "S22E01": {
+    "code": "S22E01",
+    "season": 22,
+    "episode": 1,
+    "title": "Fertilized Megg",
+    "year": "2023"
+  },
+  "S22E02": {
+    "code": "S22E02",
+    "season": 22,
+    "episode": 2,
+    "title": "Supermarket Pete",
+    "year": "2023"
+  },
+  "S22E03": {
+    "code": "S22E03",
+    "season": 22,
+    "episode": 3,
+    "title": "A Stache from the Past",
+    "year": "2023"
+  },
+  "S22E04": {
+    "code": "S22E04",
+    "season": 22,
+    "episode": 4,
+    "title": "Old World Harm",
+    "year": "2023"
+  },
+  "S22E05": {
+    "code": "S22E05",
+    "season": 22,
+    "episode": 5,
+    "title": "Baby, It's Cold Inside",
+    "year": "2023"
+  },
+  "S22E06": {
+    "code": "S22E06",
+    "season": 22,
+    "episode": 6,
+    "title": "Boston Stewie",
+    "year": "2023"
+  },
+  "S22E07": {
+    "code": "S22E07",
+    "season": 22,
+    "episode": 7,
+    "title": "Snap(ple) Decision",
+    "year": "2023"
+  },
+  "S22E08": {
+    "code": "S22E08",
+    "season": 22,
+    "episode": 8,
+    "title": "Baking Sad",
+    "year": "2023"
+  },
+  "S22E09": {
+    "code": "S22E09",
+    "season": 22,
+    "episode": 9,
+    "title": "The Return of the King (of Queens)",
+    "year": "2023"
+  },
+  "S22E10": {
+    "code": "S22E10",
+    "season": 22,
+    "episode": 10,
+    "title": "Cabin Pressure",
+    "year": "2024"
+  },
+  "S22E11": {
+    "code": "S22E11",
+    "season": 22,
+    "episode": 11,
+    "title": "Teacher's Heavy Pet",
+    "year": "2024"
+  },
+  "S22E12": {
+    "code": "S22E12",
+    "season": 22,
+    "episode": 12,
+    "title": "Take This Job and Love It",
+    "year": "2024"
+  },
+  "S22E13": {
+    "code": "S22E13",
+    "season": 22,
+    "episode": 13,
+    "title": "Lifeguard Meg",
+    "year": "2024"
+  },
+  "S22E14": {
+    "code": "S22E14",
+    "season": 22,
+    "episode": 14,
+    "title": "Fat Actor",
+    "year": "2024"
+  },
+  "S22E15": {
+    "code": "S22E15",
+    "season": 22,
+    "episode": 15,
+    "title": "Faith No More",
+    "year": "2024"
+  },
+  "S21E01": {
+    "code": "S21E01",
+    "season": 21,
+    "episode": 1,
+    "title": "Oscars Guy",
+    "year": "2022"
+  },
+  "S21E02": {
+    "code": "S21E02",
+    "season": 21,
+    "episode": 2,
+    "title": "Bend or Blockbuster",
+    "year": "2022"
+  },
+  "S21E03": {
+    "code": "S21E03",
+    "season": 21,
+    "episode": 3,
+    "title": "A Wife-Changing Experience",
+    "year": "2022"
+  },
+  "S21E04": {
+    "code": "S21E04",
+    "season": 21,
+    "episode": 4,
+    "title": "The Munchurian Candidate",
+    "year": "2022"
+  },
+  "S21E05": {
+    "code": "S21E05",
+    "season": 21,
+    "episode": 5,
+    "title": "Unzipped Code",
+    "year": "2022"
+  },
+  "S21E06": {
+    "code": "S21E06",
+    "season": 21,
+    "episode": 6,
+    "title": "Happy Holo-ween",
+    "year": "2022"
+  },
+  "S21E07": {
+    "code": "S21E07",
+    "season": 21,
+    "episode": 7,
+    "title": "The Stewaway",
+    "year": "2022"
+  },
+  "S21E08": {
+    "code": "S21E08",
+    "season": 21,
+    "episode": 8,
+    "title": "Get Stewie",
+    "year": "2022"
+  },
+  "S21E09": {
+    "code": "S21E09",
+    "season": 21,
+    "episode": 9,
+    "title": "Carny Knowledge",
+    "year": "2022"
+  },
+  "S21E10": {
+    "code": "S21E10",
+    "season": 21,
+    "episode": 10,
+    "title": "The Candidate",
+    "year": "2022"
+  },
+  "S21E11": {
+    "code": "S21E11",
+    "season": 21,
+    "episode": 11,
+    "title": "Love Story Guy",
+    "year": "2023"
+  },
+  "S21E13": {
+    "code": "S21E13",
+    "season": 21,
+    "episode": 13,
+    "title": "Single White Dad",
+    "year": "2023"
+  },
+  "S21E16": {
+    "code": "S21E16",
+    "season": 21,
+    "episode": 16,
+    "title": "The Bird Reich",
+    "year": "2023"
+  },
+  "S21E17": {
+    "code": "S21E17",
+    "season": 21,
+    "episode": 17,
+    "title": "A Bottle Episode",
+    "year": "2023"
+  },
+  "S21E18": {
+    "code": "S21E18",
+    "season": 21,
+    "episode": 18,
+    "title": "Vat Man & Rob 'Em",
+    "year": "2023"
+  },
+  "S21E19": {
+    "code": "S21E19",
+    "season": 21,
+    "episode": 19,
+    "title": "From Russia With Love",
+    "year": "2023"
+  },
+  "S21E20": {
+    "code": "S21E20",
+    "season": 21,
+    "episode": 20,
+    "title": "Adult Education",
+    "year": "2023"
+  },
+  "S21E15": {
+    "code": "S21E15",
+    "season": 21,
+    "episode": 15,
+    "title": "Adoptation",
+    "year": "2023"
+  },
+  "S21E12": {
+    "code": "S21E12",
+    "season": 21,
+    "episode": 12,
+    "title": "Old West",
+    "year": "2023"
+  },
+  "S21E14": {
+    "code": "S21E14",
+    "season": 21,
+    "episode": 14,
+    "title": "White Meg Can't Jump",
+    "year": "2023"
+  },
+  "S20E01": {
+    "code": "S20E01",
+    "season": 20,
+    "episode": 1,
+    "title": "LASIK Instinct",
+    "year": "2021"
+  },
+  "S20E02": {
+    "code": "S20E02",
+    "season": 20,
+    "episode": 2,
+    "title": "Rock Hard",
+    "year": "2021"
+  },
+  "S20E03": {
+    "code": "S20E03",
+    "season": 20,
+    "episode": 3,
+    "title": "Must Love Dogs",
+    "year": "2021"
+  },
+  "S20E04": {
+    "code": "S20E04",
+    "season": 20,
+    "episode": 4,
+    "title": "80's Guy",
+    "year": "2021"
+  },
+  "S20E05": {
+    "code": "S20E05",
+    "season": 20,
+    "episode": 5,
+    "title": "Brief Encounter",
+    "year": "2021"
+  },
+  "S20E06": {
+    "code": "S20E06",
+    "season": 20,
+    "episode": 6,
+    "title": "Cootie & The Blowhard",
+    "year": "2021"
+  },
+  "S20E07": {
+    "code": "S20E07",
+    "season": 20,
+    "episode": 7,
+    "title": "Peterschmidt Manor",
+    "year": "2021"
+  },
+  "S20E08": {
+    "code": "S20E08",
+    "season": 20,
+    "episode": 8,
+    "title": "The Birthday Bootlegger",
+    "year": "2021"
+  },
+  "S20E09": {
+    "code": "S20E09",
+    "season": 20,
+    "episode": 9,
+    "title": "The Fatman Always Rings Twice",
+    "year": "2021"
+  },
+  "S20E10": {
+    "code": "S20E10",
+    "season": 20,
+    "episode": 10,
+    "title": "Christmas Crime",
+    "year": "2021"
+  },
+  "S20E11": {
+    "code": "S20E11",
+    "season": 20,
+    "episode": 11,
+    "title": "Mister Act",
+    "year": "2022"
+  },
+  "S20E12": {
+    "code": "S20E12",
+    "season": 20,
+    "episode": 12,
+    "title": "The Lois Quagmire",
+    "year": "2022"
+  },
+  "S20E13": {
+    "code": "S20E13",
+    "season": 20,
+    "episode": 13,
+    "title": "Lawyer Guy",
+    "year": "2022"
+  },
+  "S20E14": {
+    "code": "S20E14",
+    "season": 20,
+    "episode": 14,
+    "title": "HBO-No",
+    "year": "2022"
+  },
+  "S20E15": {
+    "code": "S20E15",
+    "season": 20,
+    "episode": 15,
+    "title": "Hard Boiled Meg",
+    "year": "2022"
+  },
+  "S20E16": {
+    "code": "S20E16",
+    "season": 20,
+    "episode": 16,
+    "title": "Prescription Heroine",
+    "year": "2022"
+  },
+  "S20E17": {
+    "code": "S20E17",
+    "season": 20,
+    "episode": 17,
+    "title": "All About Alana",
+    "year": "2022"
+  },
+  "S20E18": {
+    "code": "S20E18",
+    "season": 20,
+    "episode": 18,
+    "title": "Girlfriend, Eh?",
+    "year": "2022"
+  },
+  "S20E19": {
+    "code": "S20E19",
+    "season": 20,
+    "episode": 19,
+    "title": "First Blood",
+    "year": "2022"
+  },
+  "S20E20": {
+    "code": "S20E20",
+    "season": 20,
+    "episode": 20,
+    "title": "The Jersey Bore",
+    "year": "2022"
+  },
+  "S02E01": {
+    "code": "S02E01",
+    "season": 2,
+    "episode": 1,
+    "title": "Peter, Peter, Caviar Eater",
+    "year": "1999"
+  },
+  "S02E02": {
+    "code": "S02E02",
+    "season": 2,
+    "episode": 2,
+    "title": "Holy Crap",
+    "year": "1999"
+  },
+  "S02E03": {
+    "code": "S02E03",
+    "season": 2,
+    "episode": 3,
+    "title": "Da Boom",
+    "year": "1999"
+  },
+  "S02E04": {
+    "code": "S02E04",
+    "season": 2,
+    "episode": 4,
+    "title": "Brian in Love",
+    "year": "2000"
+  },
+  "S02E05": {
+    "code": "S02E05",
+    "season": 2,
+    "episode": 5,
+    "title": "Love Thy Trophy",
+    "year": "2000"
+  },
+  "S02E06": {
+    "code": "S02E06",
+    "season": 2,
+    "episode": 6,
+    "title": "Death Is a Bitch",
+    "year": "2000"
+  },
+  "S02E07": {
+    "code": "S02E07",
+    "season": 2,
+    "episode": 7,
+    "title": "The King Is Dead",
+    "year": "2000"
+  },
+  "S02E08": {
+    "code": "S02E08",
+    "season": 2,
+    "episode": 8,
+    "title": "I Am Peter, Hear Me Roar",
+    "year": "2000"
+  },
+  "S02E09": {
+    "code": "S02E09",
+    "season": 2,
+    "episode": 9,
+    "title": "If I'm Dyin', I'm Lyin'",
+    "year": "2000"
+  },
+  "S02E10": {
+    "code": "S02E10",
+    "season": 2,
+    "episode": 10,
+    "title": "Running Mates",
+    "year": "2000"
+  },
+  "S02E11": {
+    "code": "S02E11",
+    "season": 2,
+    "episode": 11,
+    "title": "A Picture Is Worth a 1,000 Bucks",
+    "year": "2000"
+  },
+  "S02E12": {
+    "code": "S02E12",
+    "season": 2,
+    "episode": 12,
+    "title": "Fifteen Minutes of Shame",
+    "year": "2000"
+  },
+  "S02E13": {
+    "code": "S02E13",
+    "season": 2,
+    "episode": 13,
+    "title": "Road to Rhode Island",
+    "year": "2000"
+  },
+  "S02E14": {
+    "code": "S02E14",
+    "season": 2,
+    "episode": 14,
+    "title": "Let's Go to the Hop",
+    "year": "2000"
+  },
+  "S02E15": {
+    "code": "S02E15",
+    "season": 2,
+    "episode": 15,
+    "title": "Dammit Janet",
+    "year": "2000"
+  },
+  "S02E16": {
+    "code": "S02E16",
+    "season": 2,
+    "episode": 16,
+    "title": "There's Something About Paulie",
+    "year": "2000"
+  },
+  "S02E17": {
+    "code": "S02E17",
+    "season": 2,
+    "episode": 17,
+    "title": "He's Too Sexy for His Fat",
+    "year": "2000"
+  },
+  "S02E18": {
+    "code": "S02E18",
+    "season": 2,
+    "episode": 18,
+    "title": "E. Peterbus Unum",
+    "year": "2000"
+  },
+  "S02E19": {
+    "code": "S02E19",
+    "season": 2,
+    "episode": 19,
+    "title": "The Story on Page One",
+    "year": "2000"
+  },
+  "S02E20": {
+    "code": "S02E20",
+    "season": 2,
+    "episode": 20,
+    "title": "Wasted Talent",
+    "year": "2000"
+  },
+  "S02E21": {
+    "code": "S02E21",
+    "season": 2,
+    "episode": 21,
+    "title": "Fore Father",
+    "year": "2000"
+  },
+  "S19E01": {
+    "code": "S19E01",
+    "season": 19,
+    "episode": 1,
+    "title": "Stewie's First Word",
+    "year": "2020"
+  },
+  "S19E02": {
+    "code": "S19E02",
+    "season": 19,
+    "episode": 2,
+    "title": "The Talented Mr. Stewie",
+    "year": "2020"
+  },
+  "S19E03": {
+    "code": "S19E03",
+    "season": 19,
+    "episode": 3,
+    "title": "Boys & Squirrels",
+    "year": "2020"
+  },
+  "S19E04": {
+    "code": "S19E04",
+    "season": 19,
+    "episode": 4,
+    "title": "CutawayLand",
+    "year": "2020"
+  },
+  "S19E05": {
+    "code": "S19E05",
+    "season": 19,
+    "episode": 5,
+    "title": "La Famiglia Guy",
+    "year": "2020"
+  },
+  "S19E06": {
+    "code": "S19E06",
+    "season": 19,
+    "episode": 6,
+    "title": "Meg's Wedding",
+    "year": "2020"
+  },
+  "S19E07": {
+    "code": "S19E07",
+    "season": 19,
+    "episode": 7,
+    "title": "Wild Wild West",
+    "year": "2020"
+  },
+  "S19E08": {
+    "code": "S19E08",
+    "season": 19,
+    "episode": 8,
+    "title": "Pawtucket Pat",
+    "year": "2020"
+  },
+  "S19E09": {
+    "code": "S19E09",
+    "season": 19,
+    "episode": 9,
+    "title": "The First No L",
+    "year": "2020"
+  },
+  "S19E10": {
+    "code": "S19E10",
+    "season": 19,
+    "episode": 10,
+    "title": "Fecal Matters",
+    "year": "2021"
+  },
+  "S19E11": {
+    "code": "S19E11",
+    "season": 19,
+    "episode": 11,
+    "title": "Boy's Best Friend",
+    "year": "2021"
+  },
+  "S19E12": {
+    "code": "S19E12",
+    "season": 19,
+    "episode": 12,
+    "title": "And Then There's Fraud",
+    "year": "2021"
+  },
+  "S19E13": {
+    "code": "S19E13",
+    "season": 19,
+    "episode": 13,
+    "title": "PeTerminator",
+    "year": "2021"
+  },
+  "S19E14": {
+    "code": "S19E14",
+    "season": 19,
+    "episode": 14,
+    "title": "The Marrying Kind",
+    "year": "2021"
+  },
+  "S19E15": {
+    "code": "S19E15",
+    "season": 19,
+    "episode": 15,
+    "title": "Customer of the Week",
+    "year": "2021"
+  },
+  "S19E16": {
+    "code": "S19E16",
+    "season": 19,
+    "episode": 16,
+    "title": "Who's Brian Now?",
+    "year": "2021"
+  },
+  "S19E17": {
+    "code": "S19E17",
+    "season": 19,
+    "episode": 17,
+    "title": "Young Parent Trap",
+    "year": "2021"
+  },
+  "S19E18": {
+    "code": "S19E18",
+    "season": 19,
+    "episode": 18,
+    "title": "Meg Goes to College",
+    "year": "2021"
+  },
+  "S19E19": {
+    "code": "S19E19",
+    "season": 19,
+    "episode": 19,
+    "title": "Family Cat",
+    "year": "2021"
+  },
+  "S19E20": {
+    "code": "S19E20",
+    "season": 19,
+    "episode": 20,
+    "title": "Tales of Former Sports Glory",
+    "year": "2021"
+  },
+  "S18E01": {
+    "code": "S18E01",
+    "season": 18,
+    "episode": 1,
+    "title": "Yacht Rocky",
+    "year": "2019"
+  },
+  "S18E02": {
+    "code": "S18E02",
+    "season": 18,
+    "episode": 2,
+    "title": "Bri-Da",
+    "year": "2019"
+  },
+  "S18E03": {
+    "code": "S18E03",
+    "season": 18,
+    "episode": 3,
+    "title": "Absolutely Babulous",
+    "year": "2019"
+  },
+  "S18E04": {
+    "code": "S18E04",
+    "season": 18,
+    "episode": 4,
+    "title": "Disney's The Reboot",
+    "year": "2019"
+  },
+  "S18E05": {
+    "code": "S18E05",
+    "season": 18,
+    "episode": 5,
+    "title": "Cat Fight",
+    "year": "2019"
+  },
+  "S18E06": {
+    "code": "S18E06",
+    "season": 18,
+    "episode": 6,
+    "title": "Peter & Lois' Wedding",
+    "year": "2019"
+  },
+  "S18E08": {
+    "code": "S18E08",
+    "season": 18,
+    "episode": 8,
+    "title": "Shanksgiving",
+    "year": "2019"
+  },
+  "S18E09": {
+    "code": "S18E09",
+    "season": 18,
+    "episode": 9,
+    "title": "Christmas Is Coming",
+    "year": "2019"
+  },
+  "S18E10": {
+    "code": "S18E10",
+    "season": 18,
+    "episode": 10,
+    "title": "Connie's Celica",
+    "year": "2020"
+  },
+  "S18E11": {
+    "code": "S18E11",
+    "season": 18,
+    "episode": 11,
+    "title": "Short Cuts",
+    "year": "2020"
+  },
+  "S18E12": {
+    "code": "S18E12",
+    "season": 18,
+    "episode": 12,
+    "title": "Undergrounded",
+    "year": "2020"
+  },
+  "S18E13": {
+    "code": "S18E13",
+    "season": 18,
+    "episode": 13,
+    "title": "Rich Old Stewie",
+    "year": "2020"
+  },
+  "S18E14": {
+    "code": "S18E14",
+    "season": 18,
+    "episode": 14,
+    "title": "The Movement",
+    "year": "2020"
+  },
+  "S18E15": {
+    "code": "S18E15",
+    "season": 18,
+    "episode": 15,
+    "title": "Baby Stewie",
+    "year": "2020"
+  },
+  "S18E16": {
+    "code": "S18E16",
+    "season": 18,
+    "episode": 16,
+    "title": "Start Me Up",
+    "year": "2020"
+  },
+  "S18E17": {
+    "code": "S18E17",
+    "season": 18,
+    "episode": 17,
+    "title": "Coma Guy",
+    "year": "2020"
+  },
+  "S18E18": {
+    "code": "S18E18",
+    "season": 18,
+    "episode": 18,
+    "title": "Better Off Meg",
+    "year": "2020"
+  },
+  "S18E19": {
+    "code": "S18E19",
+    "season": 18,
+    "episode": 19,
+    "title": "Holly Bibble",
+    "year": "2020"
+  },
+  "S18E20": {
+    "code": "S18E20",
+    "season": 18,
+    "episode": 20,
+    "title": "Movin' In (Principal Shepherd's Song)",
+    "year": "2020"
+  },
+  "S17E01": {
+    "code": "S17E01",
+    "season": 17,
+    "episode": 1,
+    "title": "Married... with Cancer (1)",
+    "year": "2018"
+  },
+  "S17E02": {
+    "code": "S17E02",
+    "season": 17,
+    "episode": 2,
+    "title": "Dead Dog Walking (2)",
+    "year": "2018"
+  },
+  "S17E03": {
+    "code": "S17E03",
+    "season": 17,
+    "episode": 3,
+    "title": "Pal Stewie",
+    "year": "2018"
+  },
+  "S17E04": {
+    "code": "S17E04",
+    "season": 17,
+    "episode": 4,
+    "title": "Big Trouble in Little Quahog",
+    "year": "2018"
+  },
+  "S17E05": {
+    "code": "S17E05",
+    "season": 17,
+    "episode": 5,
+    "title": "Regarding Carter",
+    "year": "2018"
+  },
+  "S17E06": {
+    "code": "S17E06",
+    "season": 17,
+    "episode": 6,
+    "title": "Stand By Meg",
+    "year": "2018"
+  },
+  "S17E07": {
+    "code": "S17E07",
+    "season": 17,
+    "episode": 7,
+    "title": "The Griffin Winter Games",
+    "year": "2018"
+  },
+  "S17E08": {
+    "code": "S17E08",
+    "season": 17,
+    "episode": 8,
+    "title": "Con Heiress",
+    "year": "2018"
+  },
+  "S17E09": {
+    "code": "S17E09",
+    "season": 17,
+    "episode": 9,
+    "title": "Pawtucket Pete",
+    "year": "2018"
+  },
+  "S17E10": {
+    "code": "S17E10",
+    "season": 17,
+    "episode": 10,
+    "title": "Hefty Shades of Gray",
+    "year": "2019"
+  },
+  "S17E11": {
+    "code": "S17E11",
+    "season": 17,
+    "episode": 11,
+    "title": "Trump Guy",
+    "year": "2019"
+  },
+  "S17E12": {
+    "code": "S17E12",
+    "season": 17,
+    "episode": 12,
+    "title": "Bri, Robot",
+    "year": "2019"
+  },
+  "S17E13": {
+    "code": "S17E13",
+    "season": 17,
+    "episode": 13,
+    "title": "Trans-Fat",
+    "year": "2019"
+  },
+  "S17E14": {
+    "code": "S17E14",
+    "season": 17,
+    "episode": 14,
+    "title": "Family Guy Lite",
+    "year": "2019"
+  },
+  "S17E15": {
+    "code": "S17E15",
+    "season": 17,
+    "episode": 15,
+    "title": "No Giggity, No Doubt",
+    "year": "2019"
+  },
+  "S17E16": {
+    "code": "S17E16",
+    "season": 17,
+    "episode": 16,
+    "title": "You Can't Handle the Booth",
+    "year": "2019"
+  },
+  "S17E17": {
+    "code": "S17E17",
+    "season": 17,
+    "episode": 17,
+    "title": "Island Adventure",
+    "year": "2019"
+  },
+  "S17E18": {
+    "code": "S17E18",
+    "season": 17,
+    "episode": 18,
+    "title": "Throw It Away",
+    "year": "2019"
+  },
+  "S17E19": {
+    "code": "S17E19",
+    "season": 17,
+    "episode": 19,
+    "title": "Girl, Internetted",
+    "year": "2019"
+  },
+  "S17E20": {
+    "code": "S17E20",
+    "season": 17,
+    "episode": 20,
+    "title": "Adam West High",
+    "year": "2019"
+  },
+  "S16E01": {
+    "code": "S16E01",
+    "season": 16,
+    "episode": 1,
+    "title": "Emmy-Winning Episode",
+    "year": "2017"
+  },
+  "S16E02": {
+    "code": "S16E02",
+    "season": 16,
+    "episode": 2,
+    "title": "Foxx in the Men House",
+    "year": "2017"
+  },
+  "S16E03": {
+    "code": "S16E03",
+    "season": 16,
+    "episode": 3,
+    "title": "Nanny Goats",
+    "year": "2017"
+  },
+  "S16E04": {
+    "code": "S16E04",
+    "season": 16,
+    "episode": 4,
+    "title": "Follow the Money",
+    "year": "2017"
+  },
+  "S16E05": {
+    "code": "S16E05",
+    "season": 16,
+    "episode": 5,
+    "title": "Three Directors",
+    "year": "2017"
+  },
+  "S16E06": {
+    "code": "S16E06",
+    "season": 16,
+    "episode": 6,
+    "title": "The D in Apartment 23",
+    "year": "2017"
+  },
+  "S16E07": {
+    "code": "S16E07",
+    "season": 16,
+    "episode": 7,
+    "title": "Petey IV",
+    "year": "2017"
+  },
+  "S16E08": {
+    "code": "S16E08",
+    "season": 16,
+    "episode": 8,
+    "title": "Crimes and Meg's Demeanor",
+    "year": "2017"
+  },
+  "S16E09": {
+    "code": "S16E09",
+    "season": 16,
+    "episode": 9,
+    "title": "Don't Be a Dickens at Christmas",
+    "year": "2017"
+  },
+  "S16E10": {
+    "code": "S16E10",
+    "season": 16,
+    "episode": 10,
+    "title": "Boy (Dog) Meets Girl (Dog)",
+    "year": "2018"
+  },
+  "S16E11": {
+    "code": "S16E11",
+    "season": 16,
+    "episode": 11,
+    "title": "Dog Bites Bear",
+    "year": "2018"
+  },
+  "S16E12": {
+    "code": "S16E12",
+    "season": 16,
+    "episode": 12,
+    "title": "Send in Stewie, Please",
+    "year": "2018"
+  },
+  "S16E13": {
+    "code": "S16E13",
+    "season": 16,
+    "episode": 13,
+    "title": "V Is for Mystery",
+    "year": "2018"
+  },
+  "S16E14": {
+    "code": "S16E14",
+    "season": 16,
+    "episode": 14,
+    "title": "Veteran Guy",
+    "year": "2018"
+  },
+  "S16E15": {
+    "code": "S16E15",
+    "season": 16,
+    "episode": 15,
+    "title": "The Woof of Wall Street",
+    "year": "2018"
+  },
+  "S16E16": {
+    "code": "S16E16",
+    "season": 16,
+    "episode": 16,
+    "title": "'Family Guy' Through The Years",
+    "year": "2018"
+  },
+  "S16E17": {
+    "code": "S16E17",
+    "season": 16,
+    "episode": 17,
+    "title": "Switch the Flip",
+    "year": "2018"
+  },
+  "S16E18": {
+    "code": "S16E18",
+    "season": 16,
+    "episode": 18,
+    "title": "HTTPete",
+    "year": "2018"
+  },
+  "S16E19": {
+    "code": "S16E19",
+    "season": 16,
+    "episode": 19,
+    "title": "The Unkindest Cut",
+    "year": "2018"
+  },
+  "S16E20": {
+    "code": "S16E20",
+    "season": 16,
+    "episode": 20,
+    "title": "Are You There God? It's Me, Peter",
+    "year": "2018"
+  },
+  "S15E01": {
+    "code": "S15E01",
+    "season": 15,
+    "episode": 1,
+    "title": "The Boys in the Band",
+    "year": "2016"
+  },
+  "S15E02": {
+    "code": "S15E02",
+    "season": 15,
+    "episode": 2,
+    "title": "Bookie of the Year",
+    "year": "2016"
+  },
+  "S15E03": {
+    "code": "S15E03",
+    "season": 15,
+    "episode": 3,
+    "title": "American Gigg-olo",
+    "year": "2016"
+  },
+  "S15E04": {
+    "code": "S15E04",
+    "season": 15,
+    "episode": 4,
+    "title": "Inside Family Guy",
+    "year": "2016"
+  },
+  "S15E05": {
+    "code": "S15E05",
+    "season": 15,
+    "episode": 5,
+    "title": "Chris Has Got a Date, Date, Date, Date, Date",
+    "year": "2016"
+  },
+  "S15E06": {
+    "code": "S15E06",
+    "season": 15,
+    "episode": 6,
+    "title": "Hot Shots",
+    "year": "2016"
+  },
+  "S15E07": {
+    "code": "S15E07",
+    "season": 15,
+    "episode": 7,
+    "title": "High School English",
+    "year": "2016"
+  },
+  "S15E08": {
+    "code": "S15E08",
+    "season": 15,
+    "episode": 8,
+    "title": "Carter and Tricia",
+    "year": "2016"
+  },
+  "S15E09": {
+    "code": "S15E09",
+    "season": 15,
+    "episode": 9,
+    "title": "How the Griffin Stole Christmas",
+    "year": "2016"
+  },
+  "S15E10": {
+    "code": "S15E10",
+    "season": 15,
+    "episode": 10,
+    "title": "Passenger Fatty-Seven",
+    "year": "2017"
+  },
+  "S15E11": {
+    "code": "S15E11",
+    "season": 15,
+    "episode": 11,
+    "title": "Gronkowsbees",
+    "year": "2017"
+  },
+  "S15E12": {
+    "code": "S15E12",
+    "season": 15,
+    "episode": 12,
+    "title": "Peter's Def Jam",
+    "year": "2017"
+  },
+  "S15E13": {
+    "code": "S15E13",
+    "season": 15,
+    "episode": 13,
+    "title": "The Finer Strings",
+    "year": "2017"
+  },
+  "S15E14": {
+    "code": "S15E14",
+    "season": 15,
+    "episode": 14,
+    "title": "The Dating Game",
+    "year": "2017"
+  },
+  "S15E15": {
+    "code": "S15E15",
+    "season": 15,
+    "episode": 15,
+    "title": "Cop and a Half-Wit",
+    "year": "2017"
+  },
+  "S15E16": {
+    "code": "S15E16",
+    "season": 15,
+    "episode": 16,
+    "title": "Saturated Fat Guy",
+    "year": "2017"
+  },
+  "S15E17": {
+    "code": "S15E17",
+    "season": 15,
+    "episode": 17,
+    "title": "Peter's Lost Youth",
+    "year": "2017"
+  },
+  "S15E18": {
+    "code": "S15E18",
+    "season": 15,
+    "episode": 18,
+    "title": "The Peter Principal",
+    "year": "2017"
+  },
+  "S15E19": {
+    "code": "S15E19",
+    "season": 15,
+    "episode": 19,
+    "title": "Dearly Deported",
+    "year": "2017"
+  },
+  "S15E20": {
+    "code": "S15E20",
+    "season": 15,
+    "episode": 20,
+    "title": "A House Full of Peters",
+    "year": "2017"
+  },
+  "S14E01": {
+    "code": "S14E01",
+    "season": 14,
+    "episode": 1,
+    "title": "Pilling Them Softly",
+    "year": "2015"
+  },
+  "S14E02": {
+    "code": "S14E02",
+    "season": 14,
+    "episode": 2,
+    "title": "Papa Has a Rollin' Son",
+    "year": "2015"
+  },
+  "S14E03": {
+    "code": "S14E03",
+    "season": 14,
+    "episode": 3,
+    "title": "Guy Robot",
+    "year": "2015"
+  },
+  "S14E04": {
+    "code": "S14E04",
+    "season": 14,
+    "episode": 4,
+    "title": "Peternormal Activity",
+    "year": "2015"
+  },
+  "S14E05": {
+    "code": "S14E05",
+    "season": 14,
+    "episode": 5,
+    "title": "Peter, Chris & Brian",
+    "year": "2015"
+  },
+  "S14E06": {
+    "code": "S14E06",
+    "season": 14,
+    "episode": 6,
+    "title": "Peter's Sister",
+    "year": "2015"
+  },
+  "S14E07": {
+    "code": "S14E07",
+    "season": 14,
+    "episode": 7,
+    "title": "Hot Pocket-Dial",
+    "year": "2015"
+  },
+  "S14E08": {
+    "code": "S14E08",
+    "season": 14,
+    "episode": 8,
+    "title": "Brokeback Swanson",
+    "year": "2015"
+  },
+  "S14E09": {
+    "code": "S14E09",
+    "season": 14,
+    "episode": 9,
+    "title": "A Shot in the Dark",
+    "year": "2015"
+  },
+  "S14E10": {
+    "code": "S14E10",
+    "season": 14,
+    "episode": 10,
+    "title": "Candy, Quahog Marshmallow",
+    "year": "2016"
+  },
+  "S14E11": {
+    "code": "S14E11",
+    "season": 14,
+    "episode": 11,
+    "title": "The Peanut Butter Kid",
+    "year": "2016"
+  },
+  "S14E12": {
+    "code": "S14E12",
+    "season": 14,
+    "episode": 12,
+    "title": "Scammed Yankees",
+    "year": "2016"
+  },
+  "S14E13": {
+    "code": "S14E13",
+    "season": 14,
+    "episode": 13,
+    "title": "An App a Day",
+    "year": "2016"
+  },
+  "S14E14": {
+    "code": "S14E14",
+    "season": 14,
+    "episode": 14,
+    "title": "Underage Peter",
+    "year": "2016"
+  },
+  "S14E15": {
+    "code": "S14E15",
+    "season": 14,
+    "episode": 15,
+    "title": "A Lot Going On Upstairs",
+    "year": "2016"
+  },
+  "S14E16": {
+    "code": "S14E16",
+    "season": 14,
+    "episode": 16,
+    "title": "The Heartbreak Dog",
+    "year": "2016"
+  },
+  "S14E17": {
+    "code": "S14E17",
+    "season": 14,
+    "episode": 17,
+    "title": "Take a Letter",
+    "year": "2016"
+  },
+  "S14E18": {
+    "code": "S14E18",
+    "season": 14,
+    "episode": 18,
+    "title": "The New Adventures of Old Tom",
+    "year": "2016"
+  },
+  "S14E19": {
+    "code": "S14E19",
+    "season": 14,
+    "episode": 19,
+    "title": "Run, Chris, Run",
+    "year": "2016"
+  },
+  "S14E20": {
+    "code": "S14E20",
+    "season": 14,
+    "episode": 20,
+    "title": "Road to India",
+    "year": "2016"
+  },
+  "S13E01": {
+    "code": "S13E01",
+    "season": 13,
+    "episode": 1,
+    "title": "The Simpsons Guy",
+    "year": "2014"
+  },
+  "S13E02": {
+    "code": "S13E02",
+    "season": 13,
+    "episode": 2,
+    "title": "The Book of Joe",
+    "year": "2014"
+  },
+  "S13E03": {
+    "code": "S13E03",
+    "season": 13,
+    "episode": 3,
+    "title": "Baking Bad",
+    "year": "2014"
+  },
+  "S13E04": {
+    "code": "S13E04",
+    "season": 13,
+    "episode": 4,
+    "title": "Brian the Closer",
+    "year": "2014"
+  },
+  "S13E05": {
+    "code": "S13E05",
+    "season": 13,
+    "episode": 5,
+    "title": "Turkey Guys",
+    "year": "2014"
+  },
+  "S13E06": {
+    "code": "S13E06",
+    "season": 13,
+    "episode": 6,
+    "title": "The 2,000-Year-Old Virgin",
+    "year": "2014"
+  },
+  "S13E07": {
+    "code": "S13E07",
+    "season": 13,
+    "episode": 7,
+    "title": "Stewie, Chris & Brian's Excellent Adventure",
+    "year": "2015"
+  },
+  "S13E08": {
+    "code": "S13E08",
+    "season": 13,
+    "episode": 8,
+    "title": "Our Idiot Brian",
+    "year": "2015"
+  },
+  "S13E09": {
+    "code": "S13E09",
+    "season": 13,
+    "episode": 9,
+    "title": "This Little Piggy",
+    "year": "2015"
+  },
+  "S13E10": {
+    "code": "S13E10",
+    "season": 13,
+    "episode": 10,
+    "title": "Quagmire's Mom",
+    "year": "2015"
+  },
+  "S13E11": {
+    "code": "S13E11",
+    "season": 13,
+    "episode": 11,
+    "title": "Encyclopedia Griffin",
+    "year": "2015"
+  },
+  "S13E12": {
+    "code": "S13E12",
+    "season": 13,
+    "episode": 12,
+    "title": "Stewie Is Enceinte",
+    "year": "2015"
+  },
+  "S13E13": {
+    "code": "S13E13",
+    "season": 13,
+    "episode": 13,
+    "title": "Dr. C and the Women",
+    "year": "2015"
+  },
+  "S13E14": {
+    "code": "S13E14",
+    "season": 13,
+    "episode": 14,
+    "title": "#JOLO",
+    "year": "2015"
+  },
+  "S13E15": {
+    "code": "S13E15",
+    "season": 13,
+    "episode": 15,
+    "title": "Once Bitten",
+    "year": "2015"
+  },
+  "S13E16": {
+    "code": "S13E16",
+    "season": 13,
+    "episode": 16,
+    "title": "Roasted Guy",
+    "year": "2015"
+  },
+  "S13E17": {
+    "code": "S13E17",
+    "season": 13,
+    "episode": 17,
+    "title": "Fighting Irish",
+    "year": "2015"
+  },
+  "S13E18": {
+    "code": "S13E18",
+    "season": 13,
+    "episode": 18,
+    "title": "Take My Wife",
+    "year": "2015"
+  },
+  "S12E01": {
+    "code": "S12E01",
+    "season": 12,
+    "episode": 1,
+    "title": "Finders Keepers",
+    "year": "2013"
+  },
+  "S12E02": {
+    "code": "S12E02",
+    "season": 12,
+    "episode": 2,
+    "title": "Vestigial Peter",
+    "year": "2013"
+  },
+  "S12E03": {
+    "code": "S12E03",
+    "season": 12,
+    "episode": 3,
+    "title": "Quagmire's Quagmire",
+    "year": "2013"
+  },
+  "S12E04": {
+    "code": "S12E04",
+    "season": 12,
+    "episode": 4,
+    "title": "A Fistful of Meg",
+    "year": "2013"
+  },
+  "S12E05": {
+    "code": "S12E05",
+    "season": 12,
+    "episode": 5,
+    "title": "Boopa-Dee Bappa-Dee",
+    "year": "2013"
+  },
+  "S12E06": {
+    "code": "S12E06",
+    "season": 12,
+    "episode": 6,
+    "title": "Life of Brian",
+    "year": "2013"
+  },
+  "S12E07": {
+    "code": "S12E07",
+    "season": 12,
+    "episode": 7,
+    "title": "Into Harmony's Way",
+    "year": "2013"
+  },
+  "S12E08": {
+    "code": "S12E08",
+    "season": 12,
+    "episode": 8,
+    "title": "Christmas Guy",
+    "year": "2013"
+  },
+  "S12E09": {
+    "code": "S12E09",
+    "season": 12,
+    "episode": 9,
+    "title": "Peter Problems",
+    "year": "2014"
+  },
+  "S12E10": {
+    "code": "S12E10",
+    "season": 12,
+    "episode": 10,
+    "title": "Grimm Job",
+    "year": "2014"
+  },
+  "S12E11": {
+    "code": "S12E11",
+    "season": 12,
+    "episode": 11,
+    "title": "Brian's a Bad Father",
+    "year": "2014"
+  },
+  "S12E12": {
+    "code": "S12E12",
+    "season": 12,
+    "episode": 12,
+    "title": "Mom's the Word",
+    "year": "2014"
+  },
+  "S12E13": {
+    "code": "S12E13",
+    "season": 12,
+    "episode": 13,
+    "title": "3 Acts of God",
+    "year": "2014"
+  },
+  "S12E14": {
+    "code": "S12E14",
+    "season": 12,
+    "episode": 14,
+    "title": "Fresh Heir",
+    "year": "2014"
+  },
+  "S12E15": {
+    "code": "S12E15",
+    "season": 12,
+    "episode": 15,
+    "title": "Secondhand Spoke",
+    "year": "2014"
+  },
+  "S12E16": {
+    "code": "S12E16",
+    "season": 12,
+    "episode": 16,
+    "title": "Herpe, the Love Sore",
+    "year": "2014"
+  },
+  "S12E17": {
+    "code": "S12E17",
+    "season": 12,
+    "episode": 17,
+    "title": "The Most Interesting Man in the World",
+    "year": "2014"
+  },
+  "S12E18": {
+    "code": "S12E18",
+    "season": 12,
+    "episode": 18,
+    "title": "Baby Got Black",
+    "year": "2014"
+  },
+  "S12E19": {
+    "code": "S12E19",
+    "season": 12,
+    "episode": 19,
+    "title": "Meg Stinks!",
+    "year": "2014"
+  },
+  "S12E20": {
+    "code": "S12E20",
+    "season": 12,
+    "episode": 20,
+    "title": "He's Bla-ack!",
+    "year": "2014"
+  },
+  "S12E21": {
+    "code": "S12E21",
+    "season": 12,
+    "episode": 21,
+    "title": "Chap Stewie",
+    "year": "2014"
+  },
+  "S11E01": {
+    "code": "S11E01",
+    "season": 11,
+    "episode": 1,
+    "title": "Into Fat Air",
+    "year": "2012"
+  },
+  "S11E02": {
+    "code": "S11E02",
+    "season": 11,
+    "episode": 2,
+    "title": "Ratings Guy",
+    "year": "2012"
+  },
+  "S11E03": {
+    "code": "S11E03",
+    "season": 11,
+    "episode": 3,
+    "title": "The Old Man and the Big 'C'",
+    "year": "2012"
+  },
+  "S11E04": {
+    "code": "S11E04",
+    "season": 11,
+    "episode": 4,
+    "title": "Yug Ylimaf",
+    "year": "2012"
+  },
+  "S11E05": {
+    "code": "S11E05",
+    "season": 11,
+    "episode": 5,
+    "title": "Joe's Revenge",
+    "year": "2012"
+  },
+  "S11E06": {
+    "code": "S11E06",
+    "season": 11,
+    "episode": 6,
+    "title": "Lois Comes Out of Her Shell",
+    "year": "2012"
+  },
+  "S11E07": {
+    "code": "S11E07",
+    "season": 11,
+    "episode": 7,
+    "title": "Friends Without Benefits",
+    "year": "2012"
+  },
+  "S11E08": {
+    "code": "S11E08",
+    "season": 11,
+    "episode": 8,
+    "title": "Jesus, Mary and Joseph!",
+    "year": "2012"
+  },
+  "S11E09": {
+    "code": "S11E09",
+    "season": 11,
+    "episode": 9,
+    "title": "Space Cadet",
+    "year": "2013"
+  },
+  "S11E10": {
+    "code": "S11E10",
+    "season": 11,
+    "episode": 10,
+    "title": "Brian's Play",
+    "year": "2013"
+  },
+  "S11E11": {
+    "code": "S11E11",
+    "season": 11,
+    "episode": 11,
+    "title": "The Giggity Wife",
+    "year": "2013"
+  },
+  "S11E12": {
+    "code": "S11E12",
+    "season": 11,
+    "episode": 12,
+    "title": "Valentine's Day in Quahog",
+    "year": "2013"
+  },
+  "S11E13": {
+    "code": "S11E13",
+    "season": 11,
+    "episode": 13,
+    "title": "Chris Cross",
+    "year": "2013"
+  },
+  "S11E14": {
+    "code": "S11E14",
+    "season": 11,
+    "episode": 14,
+    "title": "Call Girl",
+    "year": "2013"
+  },
+  "S11E15": {
+    "code": "S11E15",
+    "season": 11,
+    "episode": 15,
+    "title": "Turban Cowboy",
+    "year": "2013"
+  },
+  "S11E16": {
+    "code": "S11E16",
+    "season": 11,
+    "episode": 16,
+    "title": "12 and a Half Angry Men",
+    "year": "2013"
+  },
+  "S11E17": {
+    "code": "S11E17",
+    "season": 11,
+    "episode": 17,
+    "title": "Bigfat",
+    "year": "2013"
+  },
+  "S11E18": {
+    "code": "S11E18",
+    "season": 11,
+    "episode": 18,
+    "title": "Total Recall",
+    "year": "2013"
+  },
+  "S11E19": {
+    "code": "S11E19",
+    "season": 11,
+    "episode": 19,
+    "title": "Save the Clam",
+    "year": "2013"
+  },
+  "S11E20": {
+    "code": "S11E20",
+    "season": 11,
+    "episode": 20,
+    "title": "Farmer Guy",
+    "year": "2013"
+  },
+  "S11E21": {
+    "code": "S11E21",
+    "season": 11,
+    "episode": 21,
+    "title": "Roads to Vegas",
+    "year": "2013"
+  },
+  "S11E22": {
+    "code": "S11E22",
+    "season": 11,
+    "episode": 22,
+    "title": "No Country Club for Old Men",
+    "year": "2013"
+  },
+  "S10E01": {
+    "code": "S10E01",
+    "season": 10,
+    "episode": 1,
+    "title": "Lottery Fever",
+    "year": "2011"
+  },
+  "S10E02": {
+    "code": "S10E02",
+    "season": 10,
+    "episode": 2,
+    "title": "Seahorse Seashell Party (II)",
+    "year": "2011"
+  },
+  "S10E03": {
+    "code": "S10E03",
+    "season": 10,
+    "episode": 3,
+    "title": "Screams of Silence: The Story of Brenda Q",
+    "year": "2011"
+  },
+  "S10E04": {
+    "code": "S10E04",
+    "season": 10,
+    "episode": 4,
+    "title": "Stewie Goes for a Drive",
+    "year": "2011"
+  },
+  "S10E05": {
+    "code": "S10E05",
+    "season": 10,
+    "episode": 5,
+    "title": "Back to the Pilot",
+    "year": "2011"
+  },
+  "S10E06": {
+    "code": "S10E06",
+    "season": 10,
+    "episode": 6,
+    "title": "Thanksgiving",
+    "year": "2011"
+  },
+  "S10E07": {
+    "code": "S10E07",
+    "season": 10,
+    "episode": 7,
+    "title": "Amish Guy",
+    "year": "2011"
+  },
+  "S10E08": {
+    "code": "S10E08",
+    "season": 10,
+    "episode": 8,
+    "title": "Cool Hand Peter",
+    "year": "2011"
+  },
+  "S10E09": {
+    "code": "S10E09",
+    "season": 10,
+    "episode": 9,
+    "title": "Grumpy Old Man",
+    "year": "2011"
+  },
+  "S10E10": {
+    "code": "S10E10",
+    "season": 10,
+    "episode": 10,
+    "title": "Meg and Quagmire",
+    "year": "2012"
+  },
+  "S10E11": {
+    "code": "S10E11",
+    "season": 10,
+    "episode": 11,
+    "title": "The Blind Side",
+    "year": "2012"
+  },
+  "S10E12": {
+    "code": "S10E12",
+    "season": 10,
+    "episode": 12,
+    "title": "Livin' on a Prayer",
+    "year": "2012"
+  },
+  "S10E13": {
+    "code": "S10E13",
+    "season": 10,
+    "episode": 13,
+    "title": "Tom Tucker: The Man and His Dream",
+    "year": "2012"
+  },
+  "S10E14": {
+    "code": "S10E14",
+    "season": 10,
+    "episode": 14,
+    "title": "Be Careful What You Fish For",
+    "year": "2012"
+  },
+  "S10E15": {
+    "code": "S10E15",
+    "season": 10,
+    "episode": 15,
+    "title": "Burning Down the Bayit",
+    "year": "2012"
+  },
+  "S10E16": {
+    "code": "S10E16",
+    "season": 10,
+    "episode": 16,
+    "title": "Killer Queen",
+    "year": "2012"
+  },
+  "S10E17": {
+    "code": "S10E17",
+    "season": 10,
+    "episode": 17,
+    "title": "Forget-Me-Not",
+    "year": "2012"
+  },
+  "S10E18": {
+    "code": "S10E18",
+    "season": 10,
+    "episode": 18,
+    "title": "You Can't Do That on Television, Peter",
+    "year": "2012"
+  },
+  "S10E19": {
+    "code": "S10E19",
+    "season": 10,
+    "episode": 19,
+    "title": "Mr. & Mrs. Stewie",
+    "year": "2012"
+  },
+  "S10E20": {
+    "code": "S10E20",
+    "season": 10,
+    "episode": 20,
+    "title": "Leggo My Meg-O",
+    "year": "2012"
+  },
+  "S10E21": {
+    "code": "S10E21",
+    "season": 10,
+    "episode": 21,
+    "title": "Tea Peter",
+    "year": "2012"
+  },
+  "S10E22": {
+    "code": "S10E22",
+    "season": 10,
+    "episode": 22,
+    "title": "Viewer Mail #2",
+    "year": "2012"
+  },
+  "S10E23": {
+    "code": "S10E23",
+    "season": 10,
+    "episode": 23,
+    "title": "Internal Affairs",
+    "year": "2012"
+  },
+  "S01E01": {
+    "code": "S01E01",
+    "season": 1,
+    "episode": 1,
+    "title": "Death Has a Shadow",
+    "year": "1999"
+  },
+  "S01E02": {
+    "code": "S01E02",
+    "season": 1,
+    "episode": 2,
+    "title": "I Never Met the Dead Man",
+    "year": "1999"
+  },
+  "S01E03": {
+    "code": "S01E03",
+    "season": 1,
+    "episode": 3,
+    "title": "Chitty Chitty Death Bang",
+    "year": "1999"
+  },
+  "S01E04": {
+    "code": "S01E04",
+    "season": 1,
+    "episode": 4,
+    "title": "Mind Over Murder",
+    "year": "1999"
+  },
+  "S01E05": {
+    "code": "S01E05",
+    "season": 1,
+    "episode": 5,
+    "title": "A Hero Sits Next Door",
+    "year": "1999"
+  },
+  "S01E06": {
+    "code": "S01E06",
+    "season": 1,
+    "episode": 6,
+    "title": "The Son Also Draws",
+    "year": "1999"
+  },
+  "S01E07": {
+    "code": "S01E07",
+    "season": 1,
+    "episode": 7,
+    "title": "Brian: Portrait of a Dog",
+    "year": "1999"
+  }
+}

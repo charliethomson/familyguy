@@ -1,0 +1,15 @@
+# Keep the build context small — only package files, src/, and data/ are needed.
+.git
+node_modules
+npm-debug.log*
+.env
+.env.example
+.venv
+subtitles
+standards
+scripts
+.claude
+.mcp.json
+data/subscriptions.json
+*.md
+SCR-*.png

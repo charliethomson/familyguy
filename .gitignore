@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+.venv/
+subtitles/
+
+# Runtime state (per-instance), unlike the committed data/*.json build outputs
+data/subscriptions.json
