@@ -86,7 +86,31 @@ const JOINED = [
   'shutupmeg', 'freakinsweet', 'roadhouse', 'whatthedeuce', 'victoryismine',
   'grindsmygears', 'birdistheword', 'surfinbird', 'coolwhip', 'holycraplois',
   'giggitygiggity',
+  // ── deep cuts for the real heads ──
+  'conwaytwitty',        // the smash-cut to a full Conway Twitty performance
+  'buzzkillington',      // Buzz Killington, the tedious Victorian
+  'drunkenclam',         // the bar
+  'pawtucketpatriot', 'pawtucketpat', // the brewery Peter works at
+  'greasedupdeafguy',    // "You'll never catch him!"
+  'triciatakanawa',      // Asian correspondent, Channel 5 news
+  'dianesimmons',        // co-anchor
+  'neilgoldman',         // Meg's stalker
+  'jonathanweed', 'mrweed', // Peter's first boss (choked on a dinner roll)
+  'randynewman',         // "he's just singing about what he sees"
+  'bagofweed',           // the Wizard-of-Oz "A Bag of Weed" number
+  'sexyparty',           // "It's a sexy party!"
+  'mayorwest',           // Mayor Adam West
+  'idadavis',            // Quagmire's dad
+  'chickenfight',        // Peter vs. Ernie the Giant Chicken
 ];
 // Single distinctive words. Matched at a word-start boundary.
-const TOKENS = ['stewie', 'quagmire', 'griffin', 'giggity', 'quahog'];
+const TOKENS = [
+  'stewie', 'quagmire', 'griffin', 'giggity', 'quahog',
+  // deep cuts
+  'petoria',   // Peter's micronation
+  'shipoopi',  // the Music Man number Peter performs
+  'seamus',    // the peg-limbed fisherman
+  'bertram',   // Stewie's arch-nemesis half-brother
+  'rupert',    // Stewie's teddy bear
+];
 const TOKEN_RE = new RegExp(`\\b(${TOKENS.join('|')})`, 'i');
