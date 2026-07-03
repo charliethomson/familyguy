@@ -1,7 +1,8 @@
 # familyguyfunnymomentsbot
 
-A Discord bot that quotes Family Guy. It responds to a `/quote` slash command, to
-`@mentions`, and to any message containing "family guy" with a random quote.
+A Discord bot that quotes Family Guy. It responds to slash commands, to `@mentions`,
+and to any message that references Family Guy — matched broadly (leetspeak, typos,
+character names, catchphrases) — with a random line.
 
 ## Setup
 
@@ -42,7 +43,10 @@ A Discord bot that quotes Family Guy. It responds to a `/quote` slash command, t
   "I earned some banana bread."
   S12E11 - Brian's a Bad Father (2014) · 03:41
   ```
-- Mention the bot or type a message containing "family guy" — posts a `/quote`.
+- Mention the bot, or post anything that references Family Guy — the show name
+  (however mangled: `f4m1ly gu4y`, `family-guy`, `gamily fuy`), a character
+  (`stewie`, `the griffins`, `quagmire`), or a catchphrase (`giggity`, `shut up meg`).
+  Matching lives in [`src/reference.js`](src/reference.js) with tunable lists.
 - `/subscribe` / `/unsubscribe` — **owner only** (gated on `OWNER_ID`). In the channel
   where you run `/subscribe`, the bot posts a random quote every 10 messages until you
   `/unsubscribe`. Subscribed channels are remembered across restarts

@@ -3,6 +3,7 @@ import { Client, GatewayIntentBits, Events } from 'discord.js';
 import { randomQuote, formatQuote } from './quotes.js';
 import { randomFunnyMoment, formatFunnyMoment, poolStats } from './subtitles.js';
 import { isSubscribed, subscribe, unsubscribe } from './subscriptions.js';
+import { isFamilyGuyReference } from './reference.js';
 
 const OWNER_ID = process.env.OWNER_ID;
 const MESSAGES_PER_QUOTE = 10;
@@ -64,9 +65,8 @@ client.on(Events.InteractionCreate, async (interaction) => {
 client.on(Events.MessageCreate, (message) => {
   if (message.author.bot) return; // ignore bots (incl. our own quote posts)
 
-  const content = message.content.toLowerCase();
   const mentionsBot = client.user && message.mentions.has(client.user);
-  if (mentionsBot || content.includes('family guy')) {
+  if (mentionsBot || isFamilyGuyReference(message.content)) {
     const moment = randomFunnyMoment();
     if (moment) message.reply(formatFunnyMoment(moment));
   }
