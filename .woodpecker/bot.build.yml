@@ -1,0 +1,80 @@
+# Build + push the bot image to ghcr. The homelab `bullshit` Komodo stack runs
+# ghcr.io/charliethomson/familyguyfunnymomentsbot:main.
+#
+# Replaces .github/workflows/bot.build.yml. The build lives in
+# scripts/ci/docker-build.sh. Needs the repo's trusted flag for the docker.sock
+# mount.
+#
+# This repo is PUBLIC. Pull requests from forks run this pipeline too (after
+# approval in Woodpecker), so the PR step must never name a secret. It doesn't:
+# it needs none, and `ghcr_token` is confined to the publish step.
+when:
+  - event: manual
+  - event: push
+    branch: main
+    path: &bot_paths
+      include:
+        - "src/**"
+        - "data/**"
+        - "package.json"
+        - "package-lock.json"
+        - "Dockerfile"
+        - ".dockerignore"
+        - "scripts/ci/**"
+        - ".woodpecker/bot.build.yml"
+  - event: pull_request
+    path: *bot_paths
+
+labels:
+  # Pin to the docker agents. An unlabelled pipeline can land on the macOS
+  # local-backend agent, which treats `image:` as a host executable.
+  platform: linux/amd64
+
+clone:
+  git:
+    image: woodpeckerci/plugin-git
+    settings:
+      # Full history + tags for scripts/ci/version.sh. No submodules here.
+      partial: false
+      tags: true
+
+variables:
+  - &build_image docker:27-cli
+  - &docker_sock
+    - /var/run/docker.sock:/var/run/docker.sock
+  - &build_env
+    # The GitHub workflow also tagged each main build with its version
+    # (type=raw,value=RELEASE_VERSION). Nothing deploys that tag, but it is
+    # kept so the published tags don't change.
+    EXTRA_TAGS: "{version}"
+  - &build_commands
+    - apk add --no-cache git
+    # Context `.`: package.json, src/ and data/ all sit at the root. The
+    # .dockerignore keeps .git and subtitles/ out of it, and the Dockerfile
+    # takes the version as a build-arg rather than reading git.
+    - sh scripts/ci/docker-build.sh familyguyfunnymomentsbot Dockerfile .
+
+# Two steps with the same commands, split by event: the org-level `ghcr_token`
+# secret is exposed to push and manual events only, and Woodpecker refuses to
+# compile a step naming a secret its event can't see. A step whose `when`
+# doesn't match is dropped before its secrets are resolved.
+steps:
+  build:
+    when:
+      - event: pull_request
+    image: *build_image
+    volumes: *docker_sock
+    environment:
+      <<: *build_env
+    commands: *build_commands
+
+  publish:
+    when:
+      - event: [push, manual]
+    image: *build_image
+    volumes: *docker_sock
+    environment:
+      <<: *build_env
+      GHCR_TOKEN:
+        from_secret: ghcr_token
+    commands: *build_commands
