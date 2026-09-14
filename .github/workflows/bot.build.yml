@@ -31,7 +31,9 @@ concurrency:
 
 jobs:
   build:
-    runs-on: [self-hosted, Linux, X64]
+    # GitHub-hosted: the repo is public, so hosted minutes are free, and nothing in
+    # the build needs the homelab (no private crates, no internal npm registry).
+    runs-on: ubuntu-latest
     permissions:
       contents: read
       packages: write
